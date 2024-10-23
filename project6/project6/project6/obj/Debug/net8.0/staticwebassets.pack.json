@@ -1,0 +1,465 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\project6\\project6\\project6\\wwwroot\\Category\\116898301_g0.webp",
+      "PackagePath": "staticwebassets\\Category\\116898301_g0.webp"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\project6\\project6\\project6\\wwwroot\\Category\\116899301_g0.webp",
+      "PackagePath": "staticwebassets\\Category\\116899301_g0.webp"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\project6\\project6\\project6\\wwwroot\\Category\\1_688830e6-46e1-4706-a494-9552db758951_540x.webp",
+      "PackagePath": "staticwebassets\\Category\\1_688830e6-46e1-4706-a494-9552db758951_540x.webp"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\project6\\project6\\project6\\wwwroot\\Category\\1_969057c9-0f55-4e16-882c-18833d2db12b_540x.webp",
+      "PackagePath": "staticwebassets\\Category\\1_969057c9-0f55-4e16-882c-18833d2db12b_540x.webp"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\project6\\project6\\project6\\wwwroot\\Category\\4d620f3HPPKSD-229_1.avif",
+      "PackagePath": "staticwebassets\\Category\\4d620f3HPPKSD-229_1.avif"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\project6\\project6\\project6\\wwwroot\\Category\\900712201_g0.webp",
+      "PackagePath": "staticwebassets\\Category\\900712201_g0.webp"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\project6\\project6\\project6\\wwwroot\\Category\\Aalia_Black_Wrap_Pre-Stitched_Saree2_700x.webp",
+      "PackagePath": "staticwebassets\\Category\\Aalia_Black_Wrap_Pre-Stitched_Saree2_700x.webp"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\project6\\project6\\project6\\wwwroot\\Category\\Anaisha_Pink_Ombre_Embroidered_Lehenga_Set4_700x.webp",
+      "PackagePath": "staticwebassets\\Category\\Anaisha_Pink_Ombre_Embroidered_Lehenga_Set4_700x.webp"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\project6\\project6\\project6\\wwwroot\\Category\\Carla_Black_Silk_Corset_Top2._700x.webp",
+      "PackagePath": "staticwebassets\\Category\\Carla_Black_Silk_Corset_Top2._700x.webp"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\project6\\project6\\project6\\wwwroot\\Category\\Carla_Black_Silk_Corset_Top5._700x.webp",
+      "PackagePath": "staticwebassets\\Category\\Carla_Black_Silk_Corset_Top5._700x.webp"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\project6\\project6\\project6\\wwwroot\\Category\\ChicHandbag.jpeg",
+      "PackagePath": "staticwebassets\\Category\\ChicHandbag.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\project6\\project6\\project6\\wwwroot\\Category\\denim.jpg",
+      "PackagePath": "staticwebassets\\Category\\denim.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\project6\\project6\\project6\\wwwroot\\Category\\download.jpeg",
+      "PackagePath": "staticwebassets\\Category\\download.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\project6\\project6\\project6\\wwwroot\\Category\\f.webp",
+      "PackagePath": "staticwebassets\\Category\\f.webp"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\project6\\project6\\project6\\wwwroot\\Category\\f1.webp",
+      "PackagePath": "staticwebassets\\Category\\f1.webp"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\project6\\project6\\project6\\wwwroot\\Category\\girl1.webp",
+      "PackagePath": "staticwebassets\\Category\\girl1.webp"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\project6\\project6\\project6\\wwwroot\\Category\\grils7.jpg",
+      "PackagePath": "staticwebassets\\Category\\grils7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\project6\\project6\\project6\\wwwroot\\Category\\imagess.jpg",
+      "PackagePath": "staticwebassets\\Category\\imagess.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\project6\\project6\\project6\\wwwroot\\Category\\ladies.jpg",
+      "PackagePath": "staticwebassets\\Category\\ladies.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\project6\\project6\\project6\\wwwroot\\Category\\mae-mu-z8PEoNIlGlg-unsplash.jpg",
+      "PackagePath": "staticwebassets\\Category\\mae-mu-z8PEoNIlGlg-unsplash.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\project6\\project6\\project6\\wwwroot\\Category\\stylish6.jpg",
+      "PackagePath": "staticwebassets\\Category\\stylish6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\project6\\project6\\project6\\wwwroot\\css\\AdminLogin.css",
+      "PackagePath": "staticwebassets\\css\\AdminLogin.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\project6\\project6\\project6\\wwwroot\\css\\Card.css",
+      "PackagePath": "staticwebassets\\css\\Card.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\project6\\project6\\project6\\wwwroot\\css\\Contact.css",
+      "PackagePath": "staticwebassets\\css\\Contact.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\project6\\project6\\project6\\wwwroot\\css\\Login.css",
+      "PackagePath": "staticwebassets\\css\\Login.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\project6\\project6\\project6\\wwwroot\\css\\adminsheet.css",
+      "PackagePath": "staticwebassets\\css\\adminsheet.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\project6\\project6\\project6\\wwwroot\\css\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\css\\owl.carousel.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\project6\\project6\\project6\\wwwroot\\css\\owl.theme.default.min.css",
+      "PackagePath": "staticwebassets\\css\\owl.theme.default.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\project6\\project6\\project6\\wwwroot\\image\\logo.jpg",
+      "PackagePath": "staticwebassets\\image\\logo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\project6\\project6\\project6\\wwwroot\\js\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\js\\owl.carousel.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\project6\\project6\\project6\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\project6\\project6\\project6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\project6\\project6\\project6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\project6\\project6\\project6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\project6\\project6\\project6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\project6\\project6\\project6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\project6\\project6\\project6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\project6\\project6\\project6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\project6\\project6\\project6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\project6\\project6\\project6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\project6\\project6\\project6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\project6\\project6\\project6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\project6\\project6\\project6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\project6\\project6\\project6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\project6\\project6\\project6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\project6\\project6\\project6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\project6\\project6\\project6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\project6\\project6\\project6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\project6\\project6\\project6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\project6\\project6\\project6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\project6\\project6\\project6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\project6\\project6\\project6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\project6\\project6\\project6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\project6\\project6\\project6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\project6\\project6\\project6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\project6\\project6\\project6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\project6\\project6\\project6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\project6\\project6\\project6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\project6\\project6\\project6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\project6\\project6\\project6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\project6\\project6\\project6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\project6\\project6\\project6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\project6\\project6\\project6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\project6\\project6\\project6\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\project6\\project6\\project6\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\project6\\project6\\project6\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\project6\\project6\\project6\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\project6\\project6\\project6\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\project6\\project6\\project6\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\project6\\project6\\project6\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\project6\\project6\\project6\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\project6\\project6\\project6\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\project6\\project6\\project6\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\project6\\project6\\project6\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\project6\\project6\\project6\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\project6\\project6\\project6\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\project6\\project6\\project6\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\project6\\project6\\project6\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\project6\\project6\\project6\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\project6\\project6\\project6\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\project6\\project6\\project6\\wwwroot\\product\\Aalia_Black_Wrap_Pre-Stitched_Saree2_700x.webp",
+      "PackagePath": "staticwebassets\\product\\Aalia_Black_Wrap_Pre-Stitched_Saree2_700x.webp"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\project6\\project6\\project6\\wwwroot\\product\\Amrood.jpg",
+      "PackagePath": "staticwebassets\\product\\Amrood.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\project6\\project6\\project6\\wwwroot\\product\\Carla_Black_Silk_Corset_Top2._700x.webp",
+      "PackagePath": "staticwebassets\\product\\Carla_Black_Silk_Corset_Top2._700x.webp"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\project6\\project6\\project6\\wwwroot\\product\\Carla_Black_Silk_Corset_Top5._700x.webp",
+      "PackagePath": "staticwebassets\\product\\Carla_Black_Silk_Corset_Top5._700x.webp"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\project6\\project6\\project6\\wwwroot\\product\\ElegantDress.jpg",
+      "PackagePath": "staticwebassets\\product\\ElegantDress.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\project6\\project6\\project6\\wwwroot\\product\\download.jpeg",
+      "PackagePath": "staticwebassets\\product\\download.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\project6\\project6\\project6\\wwwroot\\product\\girl1.webp",
+      "PackagePath": "staticwebassets\\product\\girl1.webp"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\project6\\project6\\project6\\wwwroot\\product\\pic3.jpg",
+      "PackagePath": "staticwebassets\\product\\pic3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\project6\\project6\\project6\\wwwroot\\product\\wallpaperflare.com_wallpaper(3).jpg",
+      "PackagePath": "staticwebassets\\product\\wallpaperflare.com_wallpaper(3).jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\project6\\project6\\project6\\wwwroot\\slider\\2-2-2-3foodgroups_fruits_detailfeature.jpg",
+      "PackagePath": "staticwebassets\\slider\\2-2-2-3foodgroups_fruits_detailfeature.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\project6\\project6\\project6\\wwwroot\\slider\\23fruit-jumbo.webp",
+      "PackagePath": "staticwebassets\\slider\\23fruit-jumbo.webp"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\project6\\project6\\project6\\wwwroot\\slider\\280284.jpg",
+      "PackagePath": "staticwebassets\\slider\\280284.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\project6\\project6\\project6\\wwwroot\\slider\\7092161b1daa6f96641c94060b34d78f.jpg",
+      "PackagePath": "staticwebassets\\slider\\7092161b1daa6f96641c94060b34d78f.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\project6\\project6\\project6\\wwwroot\\slider\\9be590ed5dc8a452e09b1a184266b89f.jpg",
+      "PackagePath": "staticwebassets\\slider\\9be590ed5dc8a452e09b1a184266b89f.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\project6\\project6\\project6\\wwwroot\\slider\\ab.jpg",
+      "PackagePath": "staticwebassets\\slider\\ab.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\project6\\project6\\project6\\wwwroot\\slider\\c.jpg",
+      "PackagePath": "staticwebassets\\slider\\c.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\project6\\project6\\project6\\wwwroot\\slider\\carrot.jpg",
+      "PackagePath": "staticwebassets\\slider\\carrot.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\project6\\project6\\project6\\wwwroot\\slider\\cover.jpg",
+      "PackagePath": "staticwebassets\\slider\\cover.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\project6\\project6\\project6\\wwwroot\\slider\\cover1.jpg",
+      "PackagePath": "staticwebassets\\slider\\cover1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\project6\\project6\\project6\\wwwroot\\slider\\cover2.jpg",
+      "PackagePath": "staticwebassets\\slider\\cover2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\project6\\project6\\project6\\wwwroot\\slider\\cover3.jpg",
+      "PackagePath": "staticwebassets\\slider\\cover3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\project6\\project6\\project6\\wwwroot\\slider\\cover4.jpg",
+      "PackagePath": "staticwebassets\\slider\\cover4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\project6\\project6\\project6\\wwwroot\\slider\\d.jpg",
+      "PackagePath": "staticwebassets\\slider\\d.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\project6\\project6\\project6\\wwwroot\\slider\\lifestyle-leisure-recreation-activity-icon_53876-21314.jpg",
+      "PackagePath": "staticwebassets\\slider\\lifestyle-leisure-recreation-activity-icon_53876-21314.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\project6\\project6\\project6\\wwwroot\\slider\\pic1.jpg",
+      "PackagePath": "staticwebassets\\slider\\pic1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\project6\\project6\\project6\\wwwroot\\slider\\pic2.jpg",
+      "PackagePath": "staticwebassets\\slider\\pic2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\project6\\project6\\project6\\wwwroot\\slider\\pic4.jpg",
+      "PackagePath": "staticwebassets\\slider\\pic4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\project6\\project6\\project6\\wwwroot\\slider\\portrait-three-young-peoplaa.jpg",
+      "PackagePath": "staticwebassets\\slider\\portrait-three-young-peoplaa.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\project6\\project6\\project6\\wwwroot\\slider\\stock-footage-beautiful-woman-with-a-magnificent-golden-hair-fun-happy-young-girl-shake-her-head-to-make-hair.webm",
+      "PackagePath": "staticwebassets\\slider\\stock-footage-beautiful-woman-with-a-magnificent-golden-hair-fun-happy-young-girl-shake-her-head-to-make-hair.webm"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\project6\\project6\\project6\\wwwroot\\slider\\various-v.webp",
+      "PackagePath": "staticwebassets\\slider\\various-v.webp"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\project6\\project6\\project6\\wwwroot\\slider\\watermelon.avif",
+      "PackagePath": "staticwebassets\\slider\\watermelon.avif"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.project6.props",
+      "PackagePath": "build\\project6.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.project6.props",
+      "PackagePath": "buildMultiTargeting\\project6.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.project6.props",
+      "PackagePath": "buildTransitive\\project6.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.project6.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

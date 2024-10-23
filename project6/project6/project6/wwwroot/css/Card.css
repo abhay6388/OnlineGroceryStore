@@ -1,0 +1,140 @@
+﻿* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f4f4f4;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #333;
+    color: white;
+    padding: 20px;
+}
+
+    header h1 {
+        font-size: 24px;
+    }
+
+nav ul {
+    list-style-type: none;
+    display: flex;
+}
+
+    nav ul li {
+        margin-left: 20px;
+    }
+
+        nav ul li a {
+            color: white;
+            text-decoration: none;
+        }
+
+.home-section {
+    background-color: #e2e2e2;
+    text-align: center;
+    padding: 100px 20px;
+}
+
+    .home-section h2 {
+        font-size: 36px;
+        margin-bottom: 10px;
+    }
+
+.collections-section {
+    padding: 50px 20px;
+    text-align: center;
+}
+
+    .collections-section h2 {
+        font-size: 32px;
+        margin-bottom: 40px;
+    }
+
+.collections-container {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.collection-card {
+    background-color: white;
+    width: 300px;
+    padding: 20px;
+    margin: 10px;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+    text-align: center;
+}
+
+    .collection-card img {
+        width: 100%;
+        height: auto;
+        border-radius: 10px;
+    }
+
+    .collection-card h3 {
+        margin: 15px 0;
+    }
+
+.shop-btn {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #333;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    margin-top: 10px;
+}
+
+.store-section {
+    padding: 50px 20px;
+    text-align: center;
+}
+
+    .store-section h2 {
+        font-size: 32px;
+        margin-bottom: 40px;
+    }
+
+.store-container {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.product-card {
+    background-color: white;
+    width: 250px;
+    padding: 20px;
+    margin: 10px;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+    text-align: center;
+}
+
+    .product-card img {
+        width: 100%;
+        height: auto;
+        border-radius: 10px;
+    }
+
+    .product-card h3 {
+        margin: 15px 0;
+    }
+
+.buy-btn {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #333;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}

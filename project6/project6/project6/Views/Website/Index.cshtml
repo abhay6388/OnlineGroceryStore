@@ -1,0 +1,132 @@
+﻿@model project6.Models.HomePage
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    Layout = "_WebsiteLayout";
+}
+
+@section head {
+    <link href="~/css/owl.carousel.min.css" rel="stylesheet" />
+    <link href="~/css/owl.theme.default.min.css" rel="stylesheet" />
+}
+@section Categories {
+    @foreach(var data in Model.Category)
+    {
+        <li><a class="dropdown-item" asp-action="Products" asp-route-id="@data.id">@data.title</a></li>
+    }
+}
+<!--  Section (Slider) -->
+<div id="fashionStoreCarousel" class="carousel slide" data-bs-ride="carousel">
+    <!-- Indicators (Optional) -->
+    <div class="carousel-indicators">
+        <button type="button" data-bs-target="#fashionStoreCarousel" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+        <button type="button" data-bs-target="#fashionStoreCarousel" data-bs-slide-to="1" aria-label="Slide 2"></button>
+        <button type="button" data-bs-target="#fashionStoreCarousel" data-bs-slide-to="2" aria-label="Slide 3"></button>
+    </div>
+    
+
+    <!-- Carousel Items -->
+    <div class="carousel-inner">
+
+        @foreach (var x in Model.slider)
+        {
+           
+                 <div class="carousel-item active">
+                    <img src="~/slider/@x.image" class="d-block w-100" alt="Fresh Produce" height="500px">
+                </div>
+        }
+
+    </div>
+    <!-- Carousel Controls -->
+    <button class="carousel-control-prev" type="button" data-bs-target="#fashionStoreCarousel" data-bs-slide="prev">
+        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+        <span class="visually-hidden">Previous</span>
+    </button>
+    <button class="carousel-control-next" type="button" data-bs-target="#fashionStoreCarousel" data-bs-slide="next">
+        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+        <span class="visually-hidden">Next</span>
+    </button>
+</div>
+
+
+
+
+<!-- Product Section -->
+<section class="products">
+    <div class="container">
+        <h2 class="text-center">Featured Products</h2>
+      <div class="row mt-2">
+
+@foreach(var data in Model.Category)
+{
+
+    <div class="col-lg-3 col-md-6 col-sm-12">
+        <div class="product-card">
+            <img src="~/Category/@data.picture" alt="Elegant Dress" style="height:300px;">
+            <h5>@data.title</h5>
+            <p>@data.description</p>
+            <a href="#" class="btn btn-primary w-100 mb-2">Add to Cart</a>
+            <a href="#" class="btn btn-outline-success w-100">Buy Now</a>
+        </div>
+    </div>
+}
+ 
+    </div>
+    </div>
+</section>
+
+
+
+
+<div class="row">
+    <div class="owl-carousel">
+        @foreach (var data in Model.Category)
+        {
+
+            <div class="col-lg-3 col-md-6 col-sm-12">
+                <div class="product-card">
+                    <img src="~/Category/@data.picture" alt="Elegant Dress" style="height:300px;">
+                    <h5>@data.title</h5>
+                    <p>@data.description</p>
+                    <a href="#" class="btn btn-primary w-100 mb-2">Add to Cart</a>
+                    <a href="#" class="btn btn-outline-success w-100">Buy Now</a>
+                </div>
+            </div>
+        }
+
+    </div>
+</div>
+<!-- Newsletter Section -->
+<section class="bg-light py-5 text-center">
+    <div class="container">
+        <h2 class="mb-4">Stay Updated</h2>
+        <p>Subscribe to our newsletter for the latest updates and exclusive offers</p>
+        <form class="d-flex justify-content-center">
+            <input type="email" class="form-control w-50" placeholder="Enter your email">
+            <button class="btn btn-primary ms-2">Subscribe</button>
+        </form>
+    </div>
+</section>
+
+
+
+@section script {
+    <script src="https://code.jquery.com/jquery-3.7.1.js"></script>
+    <script src="~/js/owl.carousel.min.js"></script>
+
+    <script>
+        $(document).ready(function () {
+            var owl = $('.owl-carousel');
+            owl.owlCarousel({
+                items: 4,
+                loop: true,
+                margin: 10,
+                autoplay: true,
+                autoplayTimeout: 1000,
+                autoplayHoverPause: true
+            });
+        });
+</script>
+}
+

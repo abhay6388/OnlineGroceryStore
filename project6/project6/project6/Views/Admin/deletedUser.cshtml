@@ -1,0 +1,43 @@
+﻿@model IEnumerable<project6.Models.product>
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    Layout = "_AdminLayout";
+}
+<h1>Manag Product</h1>
+
+<br />
+
+<a class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#addproduct">Add New</a>
+<br />
+<table class="table table-bordered">
+    <tr>
+        <th>Sr</th>
+        <th>Name</th>
+        <th>Price</th>
+        <th>Description</th>
+        <th>Image</th>
+        <th>Category</th>
+        <th>Action</th>
+        <th>Restor</th>
+    </tr>
+    @foreach (var data in Model)
+    {
+        <tr>
+            <td>@data.id</td>
+            <td>@data.name</td>
+            <td>@data.price</td>
+            <td>@data.description</td>
+            <td><img src="~/product/@data.image" style="height:100px" /></td>
+            <td>@data.cid</td>
+
+            <td>
+                <a class="btn btn-primary" asp-action="RestoreUser" asp-route-id="@data.id">Restore</a>
+
+            </td>
+            <td><a class="btn btn-danger" asp-action="UserSoftDelete" asp-route-id="@data.id">Soft Delete</a></td>
+        </tr>
+    }
+
+

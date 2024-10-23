@@ -1,0 +1,61 @@
+﻿@model IEnumerable<project6.Models.slider>
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    Layout = "_AdminLayout";
+}
+
+<h1>Manage Slider</h1>
+
+<a class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#addslider">Add New Slider</a>
+<table class="table table-bordered table-hover">
+
+    <tr>
+        <td>Sr No</td>
+        <td>Slider Image</td>
+        <td>Action</td>
+    </tr>
+    @foreach (var x in Model)
+    {
+        <tr>
+            <td>@x.id</td>
+            <td><img src="~/slider/@x.image" style="height:100px;" /></td>
+            <td><a class="btn btn-danger" asp-action="DeleteSlider" asp-route-id="@x.id">Delete</a></td>
+        </tr>
+
+    }
+
+</table>
+
+
+
+<div class="modal fade" id="addslider">
+
+    <div class="modal-dialog">
+        <div class="modal-content">
+
+            <div class="model-header">
+                <h4 class="model-title">Add New Silder</h4>
+                <button type="button" class="btn-close" data-bs-dismiss="modal"></button>
+            </div>
+            <div class="model-body">
+                <form method="post" asp-action="AddSlider" enctype="multipart/form-data">
+                    Upload Slider Image
+                    <input type="file" name="image" required class="form-control">
+                    <br />
+                    <button class="btn btn-warning">Upload</button>
+                </form>
+
+
+            </div>
+        </div>
+
+
+    </div>
+</div>
+
+
+
+
+
